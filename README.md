@@ -5,18 +5,18 @@ automatic portfolio stocks monitoring
 
 Track your portfolio stocks
 ----
-
-adani="Adani Enterprises"
-cairn="Cairn India"
-suntv="Sun TV Network"
-lupin="Lupin"
-yes="Yes Bank"
-vedanta="Vedanta"
-tatasteel="Tata Steel"
-ongc="ONGC"
-cipla="Cipla"
-tatamotors="Tata Motors"
-sbi="SBI"
+     stocks list;
+                        adani="Adani Enterprises"
+                        cairn="Cairn India"
+                        suntv="Sun TV Network"
+                        lupin="Lupin"
+                        yes="Yes Bank"
+                        vedanta="Vedanta"
+                        tatasteel="Tata Steel"
+                        ongc="ONGC"
+                        cipla="Cipla"
+                        tatamotors="Tata Motors"
+                        sbi="SBI"
 
 
 
